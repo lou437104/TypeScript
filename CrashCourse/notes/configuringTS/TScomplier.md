@@ -1,0 +1,1 @@
+in the termianl write command tsc --- init to create a tsconfig.json file 
