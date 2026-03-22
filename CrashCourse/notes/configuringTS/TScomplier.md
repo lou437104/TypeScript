@@ -1,1 +1,1 @@
-in the termianl write command tsc --- init to create a tsconfig.json file 
+in the terminal write command tsc --- init to create a tsconfig.json file 
